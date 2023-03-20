@@ -25,6 +25,10 @@
                      <label>Usuario</label>
                  </div>
                  <div class="username">
+                     <input type="text" name="dui" required >
+                     <label>dui</label>
+                 </div>
+                 <div class="username">
                      <input type="password" name="contrasena" required>
                      <label>Contrase&ntilde;a</label>
                  </div>
